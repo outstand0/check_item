@@ -9,4 +9,5 @@ void main()
 
     test_temp[0] = 2; // want check point
     test_temp[1] = 0;
+    test_temp[2] = 1;
 }
