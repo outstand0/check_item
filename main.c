@@ -7,5 +7,6 @@ void main()
 {
 
 
-    test_temp[0] = 1; // want check point
+    test_temp[0] = 2; // want check point
+    test_temp[1] = 0;
 }
